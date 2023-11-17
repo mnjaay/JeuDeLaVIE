@@ -11,6 +11,6 @@ Assurez-vous d'avoir Python installé sur votre machine. Vous pouvez télécharg
 Utilisez ensuite le gestionnaire de paquets Python, pip, pour installer les bibliothèques nécessaires :
 ```bash
 pip install numpy matplotlib
-
+```
 une fois installlé vous pouvez cloner le projet par: git clone + lien du repository
 et executer sur votre machine : python index.py
