@@ -15,7 +15,7 @@ pip install numpy matplotlib
 une fois installlé vous pouvez cloner le projet par: 
 ```bash
 git clone https://github.com/votre-nom-utilisateur/JeuDeLaVIE.git
-cd jeu
+cd JeuDeLaVIE
 ```
  executer sur votre machine :
  ```bash
