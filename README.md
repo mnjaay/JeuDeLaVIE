@@ -12,5 +12,12 @@ Utilisez ensuite le gestionnaire de paquets Python, pip, pour installer les bibl
 ```bash
 pip install numpy matplotlib
 ```
-une fois installlé vous pouvez cloner le projet par: git clone + lien du repository
-et executer sur votre machine : python index.py
+une fois installlé vous pouvez cloner le projet par: 
+```bash
+git clone https://github.com/votre-nom-utilisateur/JeuDeLaVIE.git
+cd jeu
+```
+ executer sur votre machine :
+ ```bash
+ python index.py
+```
